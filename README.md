@@ -8,7 +8,7 @@ In order to use this runner for your project, edit the `codingame.yml` file and 
 
     runner:
       name: codingame/phpunit-runner
-      version: 1.0
+      version: 1.1.0-php-7
 
 ## Example
 
