@@ -6,9 +6,7 @@ This is a PHPUnit runner that executes tests based on the `PHPUnit` framework.
 
 In order to use this runner for your project, edit the `codingame.yml` file and add the following lines to your project:
 
-    runner:
-      name: codingame/phpunit-runner
-      version: 1.1.0-php-7
+    runner: techio/phpunit-runner:1.1.0-php-7
 
 ## Example
 
